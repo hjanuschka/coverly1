@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Coverly1::Application.config.secret_key_base = 'ec03cf98a516101da2fa5d4d9af4520e8e3b2596b544e1583fd9c90ff7612e5697b1c9563d82de43a1fd6a7f947fafbee71c3a28ae69afcf11d7a62f04b5fc5a'
+Coverly1::Application.config.secret_key_base = 'cf5ff5e32189e4dd1ef08802b6a0ae3e92ddd55df105d6ed463aa33eb0f6388b5abb82744bb090ed0fa3de59e879fa87d1974eb7e5bdfeb55a89001de496edda'
